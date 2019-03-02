@@ -173,7 +173,7 @@ body {
   border-radius: 0;
   background: rgba(31, 31, 31, 0.75);
   transform: none;
-  height: calc(100% - 5px);
+  height: 100%;
   top: 0;
   width: 5rem;
 }
